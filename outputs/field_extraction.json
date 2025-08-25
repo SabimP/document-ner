@@ -1,0 +1,2168 @@
+[
+  {
+    "doc_id": "X00016469670",
+    "invoice_number": "NO",
+    "date": "15/01/2019",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X00016469671",
+    "invoice_number": "NO",
+    "date": "02/01/2019",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51005200931",
+    "invoice_number": "CS00082258",
+    "date": "09/02/2018",
+    "amount": 436.2
+  },
+  {
+    "doc_id": "X51005230605",
+    "invoice_number": "19729058",
+    "date": "01/02/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005230616",
+    "invoice_number": null,
+    "date": "18/01/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005230621",
+    "invoice_number": null,
+    "date": "05/02/2018",
+    "amount": 887.0
+  },
+  {
+    "doc_id": "X51005230648",
+    "invoice_number": null,
+    "date": "29/01/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005230657",
+    "invoice_number": null,
+    "date": "31/12/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005230659",
+    "invoice_number": null,
+    "date": "08/01/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005268275",
+    "invoice_number": null,
+    "date": "20/11/2017",
+    "amount": 888100123.0
+  },
+  {
+    "doc_id": "X51005268408",
+    "invoice_number": "18222/102/T0341",
+    "date": "20-11-17",
+    "amount": 200.0
+  },
+  {
+    "doc_id": "X51005288570",
+    "invoice_number": null,
+    "date": null,
+    "amount": 59.0
+  },
+  {
+    "doc_id": "X51005301666",
+    "invoice_number": null,
+    "date": "20/11/2017",
+    "amount": 888100123.0
+  },
+  {
+    "doc_id": "X51005337867",
+    "invoice_number": null,
+    "date": "22 MAR 18",
+    "amount": 30.25
+  },
+  {
+    "doc_id": "X51005337877",
+    "invoice_number": null,
+    "date": "20/03/2018",
+    "amount": 54.0
+  },
+  {
+    "doc_id": "X51005361906",
+    "invoice_number": null,
+    "date": "27/01/2018",
+    "amount": 200.0
+  },
+  {
+    "doc_id": "X51005361908",
+    "invoice_number": null,
+    "date": "15/03/2018",
+    "amount": 127.2
+  },
+  {
+    "doc_id": "X51005361912",
+    "invoice_number": null,
+    "date": "29/01/2018",
+    "amount": 53.0
+  },
+  {
+    "doc_id": "X51005361923",
+    "invoice_number": null,
+    "date": "02/01/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005365187",
+    "invoice_number": null,
+    "date": "02/03/2018",
+    "amount": 275.0
+  },
+  {
+    "doc_id": "X51005433518",
+    "invoice_number": "OR18030702170417",
+    "date": "07 MAR 2018",
+    "amount": 8.2
+  },
+  {
+    "doc_id": "X51005433543",
+    "invoice_number": "OR18031302170441",
+    "date": "13 MAR 2018",
+    "amount": 8.2
+  },
+  {
+    "doc_id": "X51005433548",
+    "invoice_number": null,
+    "date": "03/03/18",
+    "amount": 379.0
+  },
+  {
+    "doc_id": "X51005433556",
+    "invoice_number": null,
+    "date": "11/03/2018",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51005442322",
+    "invoice_number": null,
+    "date": "03 MAR 18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005442334",
+    "invoice_number": "OR18032602170324",
+    "date": "26 MAR 2018",
+    "amount": 8.2
+  },
+  {
+    "doc_id": "X51005442343",
+    "invoice_number": null,
+    "date": "13/03/2018",
+    "amount": 102.0
+  },
+  {
+    "doc_id": "X51005442366",
+    "invoice_number": null,
+    "date": "22-03-2018",
+    "amount": 666.0
+  },
+  {
+    "doc_id": "X51005442375",
+    "invoice_number": "OR18032502170439",
+    "date": "25 MAR 2018",
+    "amount": 8.5
+  },
+  {
+    "doc_id": "X51005442382",
+    "invoice_number": "OR18032002170471",
+    "date": "20 MAR 2018",
+    "amount": 6.6
+  },
+  {
+    "doc_id": "X51005442388",
+    "invoice_number": null,
+    "date": "20/03/18",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51005444040",
+    "invoice_number": "BAT01201803090220",
+    "date": "09/03/18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005444041",
+    "invoice_number": "BAT01201803080169",
+    "date": "08/03/18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005444044",
+    "invoice_number": "18332/103/T0157",
+    "date": "10-03-18",
+    "amount": 104.0
+  },
+  {
+    "doc_id": "X51005444046",
+    "invoice_number": "S",
+    "date": "25/03/18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005447841",
+    "invoice_number": null,
+    "date": "09/03/2018",
+    "amount": 4.0
+  },
+  {
+    "doc_id": "X51005447842",
+    "invoice_number": null,
+    "date": "14/03/2018",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51005447844",
+    "invoice_number": "8884",
+    "date": "23/2/2018",
+    "amount": 110.0
+  },
+  {
+    "doc_id": "X51005447851",
+    "invoice_number": null,
+    "date": "30/01/2018",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51005447859",
+    "invoice_number": null,
+    "date": "14/02/2018",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51005568855",
+    "invoice_number": null,
+    "date": "23/12/17",
+    "amount": 450.0
+  },
+  {
+    "doc_id": "X51005568866",
+    "invoice_number": null,
+    "date": "3 SEPT 2017",
+    "amount": 437.0
+  },
+  {
+    "doc_id": "X51005568885",
+    "invoice_number": null,
+    "date": "10/07/2017",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51005568887",
+    "invoice_number": null,
+    "date": "06/04/2017",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005568889",
+    "invoice_number": null,
+    "date": "11/02/2017",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005568890",
+    "invoice_number": null,
+    "date": "05/01/2017",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005568892",
+    "invoice_number": null,
+    "date": "18/09/2017",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51005568894",
+    "invoice_number": null,
+    "date": "17/01/2017",
+    "amount": 51.65
+  },
+  {
+    "doc_id": "X51005568895",
+    "invoice_number": null,
+    "date": "13/09/2017",
+    "amount": 53.0
+  },
+  {
+    "doc_id": "X51005577191",
+    "invoice_number": "CS00031383",
+    "date": "07/12/2017",
+    "amount": 42.0
+  },
+  {
+    "doc_id": "X51005582745",
+    "invoice_number": "CS00090733",
+    "date": "04/12/2016",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005587261",
+    "invoice_number": null,
+    "date": "23/03/2017",
+    "amount": 600.0
+  },
+  {
+    "doc_id": "X51005605287",
+    "invoice_number": "2018031430090060035",
+    "date": "14/03/2018",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51005605295",
+    "invoice_number": null,
+    "date": "22/03/18",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005605332",
+    "invoice_number": null,
+    "date": "14/03/18",
+    "amount": 52.0
+  },
+  {
+    "doc_id": "X51005621482",
+    "invoice_number": "NO",
+    "date": "20/03/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005663274",
+    "invoice_number": "NO",
+    "date": "08/02/2018",
+    "amount": 15.0
+  },
+  {
+    "doc_id": "X51005663300",
+    "invoice_number": "NO",
+    "date": "02/02/2018",
+    "amount": 10.0
+  },
+  {
+    "doc_id": "X51005663307",
+    "invoice_number": "NO",
+    "date": "09/02/2018",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51005663309",
+    "invoice_number": null,
+    "date": "01/02/2018",
+    "amount": 939.0
+  },
+  {
+    "doc_id": "X51005663310",
+    "invoice_number": "NO",
+    "date": "09/02/2018",
+    "amount": 12.0
+  },
+  {
+    "doc_id": "X51005663323",
+    "invoice_number": "CS00042153",
+    "date": "04/12/2017",
+    "amount": 939.0
+  },
+  {
+    "doc_id": "X51005675099",
+    "invoice_number": null,
+    "date": "20/01/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005675103",
+    "invoice_number": null,
+    "date": "04/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005675104",
+    "invoice_number": null,
+    "date": "25/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005675914",
+    "invoice_number": null,
+    "date": "10/11/2017",
+    "amount": 70.0
+  },
+  {
+    "doc_id": "X51005676534",
+    "invoice_number": null,
+    "date": "03/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005676535",
+    "invoice_number": null,
+    "date": "30/12/2017",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005676537",
+    "invoice_number": null,
+    "date": "03/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005676542",
+    "invoice_number": null,
+    "date": "29/12/2017",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005676548",
+    "invoice_number": null,
+    "date": "15/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005677327",
+    "invoice_number": null,
+    "date": "01/02/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005677333",
+    "invoice_number": null,
+    "date": "31/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005677336",
+    "invoice_number": null,
+    "date": "27/01/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X51005677337",
+    "invoice_number": null,
+    "date": "02/02/2018",
+    "amount": 290.0
+  },
+  {
+    "doc_id": "X510056849111",
+    "invoice_number": "OF",
+    "date": "26-02-2018",
+    "amount": 46.0
+  },
+  {
+    "doc_id": "X51005684949",
+    "invoice_number": "OF",
+    "date": "26-02-2018",
+    "amount": 46.0
+  },
+  {
+    "doc_id": "X51005705727",
+    "invoice_number": null,
+    "date": "28/12/2017",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005705729",
+    "invoice_number": null,
+    "date": "13/10/2017",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51005705759",
+    "invoice_number": "OR",
+    "date": "1/08/2017",
+    "amount": 2.0
+  },
+  {
+    "doc_id": "X51005705784",
+    "invoice_number": null,
+    "date": "15/09/2017",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005710963",
+    "invoice_number": "CS00032256",
+    "date": "21/03/2018",
+    "amount": 59.0
+  },
+  {
+    "doc_id": "X51005711402",
+    "invoice_number": null,
+    "date": "17-03-2018",
+    "amount": 8.0
+  },
+  {
+    "doc_id": "X51005711443",
+    "invoice_number": null,
+    "date": "23-03-2018",
+    "amount": 55.0
+  },
+  {
+    "doc_id": "X51005711444",
+    "invoice_number": null,
+    "date": "21-03-2018",
+    "amount": 42.0
+  },
+  {
+    "doc_id": "X51005711446",
+    "invoice_number": null,
+    "date": "10-03-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005711449",
+    "invoice_number": null,
+    "date": "07-03-2018",
+    "amount": 4.0
+  },
+  {
+    "doc_id": "X51005715006",
+    "invoice_number": "KNG01-1032303",
+    "date": "20/03/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005715007",
+    "invoice_number": null,
+    "date": "25-03-18",
+    "amount": 90.0
+  },
+  {
+    "doc_id": "X51005715455",
+    "invoice_number": "18348/102/T0058",
+    "date": "26-03-18",
+    "amount": 102.0
+  },
+  {
+    "doc_id": "X51005719823",
+    "invoice_number": "CS00123688",
+    "date": "29/01/2018",
+    "amount": 47.0
+  },
+  {
+    "doc_id": "X51005719855",
+    "invoice_number": null,
+    "date": "19/02/2018",
+    "amount": 357.0
+  },
+  {
+    "doc_id": "X51005719857",
+    "invoice_number": null,
+    "date": "19-02-2018",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005719863",
+    "invoice_number": null,
+    "date": "12-01-2018",
+    "amount": 77.4
+  },
+  {
+    "doc_id": "X51005719888",
+    "invoice_number": null,
+    "date": "04/01/2018",
+    "amount": 5.0
+  },
+  {
+    "doc_id": "X51005719889",
+    "invoice_number": null,
+    "date": "04/01/2018",
+    "amount": 42.0
+  },
+  {
+    "doc_id": "X51005719895",
+    "invoice_number": null,
+    "date": "1/8/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005719898",
+    "invoice_number": null,
+    "date": "19-03-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005719903",
+    "invoice_number": null,
+    "date": "11/03/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005719905",
+    "invoice_number": null,
+    "date": "25/03/2018",
+    "amount": 56.0
+  },
+  {
+    "doc_id": "X51005724552",
+    "invoice_number": null,
+    "date": "21/03/2018",
+    "amount": 276.0
+  },
+  {
+    "doc_id": "X51005724609",
+    "invoice_number": null,
+    "date": "14/03/18",
+    "amount": 688.0
+  },
+  {
+    "doc_id": "X51005724611",
+    "invoice_number": null,
+    "date": "21/03/2018",
+    "amount": 276.0
+  },
+  {
+    "doc_id": "X51005724622",
+    "invoice_number": null,
+    "date": "07/03/2018",
+    "amount": 276.0
+  },
+  {
+    "doc_id": "X51005724623",
+    "invoice_number": null,
+    "date": "08/03/2018",
+    "amount": 350.0
+  },
+  {
+    "doc_id": "X51005724624",
+    "invoice_number": null,
+    "date": "16/03/2018",
+    "amount": 276.0
+  },
+  {
+    "doc_id": "X51005724625",
+    "invoice_number": null,
+    "date": "12/03/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51005724626",
+    "invoice_number": null,
+    "date": "02/04/2018",
+    "amount": 921.0
+  },
+  {
+    "doc_id": "X51005724628",
+    "invoice_number": null,
+    "date": "10/03/2018",
+    "amount": 276.0
+  },
+  {
+    "doc_id": "X51005741929",
+    "invoice_number": "NO",
+    "date": "15/01/2018",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51005742110",
+    "invoice_number": "CS00668595",
+    "date": "06/01/2018",
+    "amount": 65.7
+  },
+  {
+    "doc_id": "X51005745213",
+    "invoice_number": null,
+    "date": "01/02/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005745244",
+    "invoice_number": "1/A-42210-138075",
+    "date": "0 PHONE 03",
+    "amount": 31.0
+  },
+  {
+    "doc_id": "X51005745298",
+    "invoice_number": "18353/102/T0311",
+    "date": "31-03-18",
+    "amount": 503100.0
+  },
+  {
+    "doc_id": "X51005746203",
+    "invoice_number": "NO",
+    "date": "01-03-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005746204",
+    "invoice_number": null,
+    "date": null,
+    "amount": 1546.0
+  },
+  {
+    "doc_id": "X51005746206",
+    "invoice_number": null,
+    "date": "21-03-2018",
+    "amount": 105.0
+  },
+  {
+    "doc_id": "X51005746207",
+    "invoice_number": "203225",
+    "date": "21-03-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005746210",
+    "invoice_number": "NO",
+    "date": "12 MAR 2018",
+    "amount": 145.1
+  },
+  {
+    "doc_id": "X51005749904",
+    "invoice_number": null,
+    "date": "06/03/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005757220",
+    "invoice_number": "2018030510080080119",
+    "date": "05/03/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51005757233",
+    "invoice_number": null,
+    "date": "09/03/18",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51005757282",
+    "invoice_number": null,
+    "date": "12/09/2017",
+    "amount": 373.0
+  },
+  {
+    "doc_id": "X51005757292",
+    "invoice_number": "-",
+    "date": "18-03-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005757308",
+    "invoice_number": "-",
+    "date": "21-03-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005757342",
+    "invoice_number": "-",
+    "date": "23-03-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005763958",
+    "invoice_number": "152164",
+    "date": "27-01-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005763964",
+    "invoice_number": "CS00668594",
+    "date": "06/01/2018",
+    "amount": 65.7
+  },
+  {
+    "doc_id": "X51005763999",
+    "invoice_number": "NO",
+    "date": "06 JAN 2018",
+    "amount": 674.0
+  },
+  {
+    "doc_id": "X51005764031",
+    "invoice_number": "192636",
+    "date": "01-02-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51005764154",
+    "invoice_number": null,
+    "date": "25-01-2018",
+    "amount": 205.5
+  },
+  {
+    "doc_id": "X51005764161",
+    "invoice_number": "18291/102/T0380",
+    "date": "28-01-18",
+    "amount": 102.0
+  },
+  {
+    "doc_id": "X51005806692",
+    "invoice_number": null,
+    "date": "18/02/2018",
+    "amount": 911.0
+  },
+  {
+    "doc_id": "X51005806695",
+    "invoice_number": "NO",
+    "date": null,
+    "amount": 37.0
+  },
+  {
+    "doc_id": "X51005806696",
+    "invoice_number": null,
+    "date": "23/02/2018",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51005806718",
+    "invoice_number": null,
+    "date": "13/01/2018",
+    "amount": 4.0
+  },
+  {
+    "doc_id": "X51005806719",
+    "invoice_number": null,
+    "date": "13/01/2018",
+    "amount": 956.0
+  },
+  {
+    "doc_id": "X51005806720",
+    "invoice_number": null,
+    "date": "13/01/2018",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51006008081",
+    "invoice_number": null,
+    "date": "19/03/2018",
+    "amount": 226.6
+  },
+  {
+    "doc_id": "X51006008082",
+    "invoice_number": null,
+    "date": "25/03/2018",
+    "amount": 204.2
+  },
+  {
+    "doc_id": "X51006008083",
+    "invoice_number": null,
+    "date": "25/03/2018",
+    "amount": 119.57
+  },
+  {
+    "doc_id": "X51006008090",
+    "invoice_number": null,
+    "date": "05/03/18",
+    "amount": 56.0
+  },
+  {
+    "doc_id": "X51006008092",
+    "invoice_number": null,
+    "date": "06/03/18",
+    "amount": 450.0
+  },
+  {
+    "doc_id": "X51006008093",
+    "invoice_number": null,
+    "date": "06/03/18",
+    "amount": 31.0
+  },
+  {
+    "doc_id": "X51006008105",
+    "invoice_number": "2018032151300023113",
+    "date": "21/03/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51006008166",
+    "invoice_number": null,
+    "date": "14/01/2018",
+    "amount": 750.0
+  },
+  {
+    "doc_id": "X51006008206",
+    "invoice_number": "001-731709",
+    "date": null,
+    "amount": 63.9
+  },
+  {
+    "doc_id": "X51006248253",
+    "invoice_number": null,
+    "date": "29/03/2018",
+    "amount": 47.0
+  },
+  {
+    "doc_id": "X51006311714",
+    "invoice_number": null,
+    "date": "01/01/18",
+    "amount": 23.0
+  },
+  {
+    "doc_id": "X51006327953",
+    "invoice_number": null,
+    "date": "03/02/2017",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51006327960",
+    "invoice_number": null,
+    "date": "07/02/17",
+    "amount": 0.56
+  },
+  {
+    "doc_id": "X51006328345",
+    "invoice_number": null,
+    "date": "23/02/17",
+    "amount": 0.41
+  },
+  {
+    "doc_id": "X51006328937",
+    "invoice_number": "CS00168420",
+    "date": "31/03/2017",
+    "amount": 69.0
+  },
+  {
+    "doc_id": "X51006328967",
+    "invoice_number": null,
+    "date": "17/03/2017",
+    "amount": 3.0
+  },
+  {
+    "doc_id": "X51006329183",
+    "invoice_number": null,
+    "date": "06-03-2018",
+    "amount": 396.0
+  },
+  {
+    "doc_id": "X51006329388",
+    "invoice_number": null,
+    "date": null,
+    "amount": 3052.0
+  },
+  {
+    "doc_id": "X51006332641",
+    "invoice_number": "CS00027489",
+    "date": "11/02/2017",
+    "amount": 50.1
+  },
+  {
+    "doc_id": "X51006334139",
+    "invoice_number": null,
+    "date": "05/01/17",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51006334742",
+    "invoice_number": null,
+    "date": "01-01-2017",
+    "amount": 179.0
+  },
+  {
+    "doc_id": "X51006334766",
+    "invoice_number": null,
+    "date": "12/01/2017",
+    "amount": 863.0
+  },
+  {
+    "doc_id": "X51006334770",
+    "invoice_number": null,
+    "date": null,
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006334819",
+    "invoice_number": null,
+    "date": null,
+    "amount": 3243.0
+  },
+  {
+    "doc_id": "X51006334927",
+    "invoice_number": null,
+    "date": "11/11/16",
+    "amount": 437.0
+  },
+  {
+    "doc_id": "X51006335818",
+    "invoice_number": "NO",
+    "date": "06 FEB 2017",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51006349081",
+    "invoice_number": "NO",
+    "date": "26/04/2018",
+    "amount": 84.8
+  },
+  {
+    "doc_id": "X51006349083",
+    "invoice_number": "1541",
+    "date": "19/04/2018",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51006349085",
+    "invoice_number": null,
+    "date": "22/04/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006350737",
+    "invoice_number": "NO",
+    "date": "31/03/2018",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51006387660",
+    "invoice_number": null,
+    "date": "02/04/2017",
+    "amount": 2.0
+  },
+  {
+    "doc_id": "X51006387737",
+    "invoice_number": null,
+    "date": null,
+    "amount": 525.0
+  },
+  {
+    "doc_id": "X51006387931",
+    "invoice_number": null,
+    "date": "30/04/2017",
+    "amount": 59.0
+  },
+  {
+    "doc_id": "X51006387950",
+    "invoice_number": null,
+    "date": "30/04/2017",
+    "amount": 49.0
+  },
+  {
+    "doc_id": "X51006387973",
+    "invoice_number": null,
+    "date": "30/04/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006388068",
+    "invoice_number": null,
+    "date": "11/05/17",
+    "amount": 385.0
+  },
+  {
+    "doc_id": "X51006388081",
+    "invoice_number": null,
+    "date": "21/05/17",
+    "amount": 1.55
+  },
+  {
+    "doc_id": "X51006388089",
+    "invoice_number": "CS00636502",
+    "date": "21/05/2017",
+    "amount": 108.0
+  },
+  {
+    "doc_id": "X51006389894",
+    "invoice_number": null,
+    "date": "10/10/17",
+    "amount": 3.96
+  },
+  {
+    "doc_id": "X51006389898",
+    "invoice_number": null,
+    "date": "29-09-2017",
+    "amount": 12.0
+  },
+  {
+    "doc_id": "X51006392167",
+    "invoice_number": null,
+    "date": "19/06/17",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006401845",
+    "invoice_number": null,
+    "date": "04/02/2017",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51006401853",
+    "invoice_number": "17936/102/T0275",
+    "date": "07-02-17",
+    "amount": 407.0
+  },
+  {
+    "doc_id": "X51006401940",
+    "invoice_number": "CS00058574",
+    "date": "10/04/2017",
+    "amount": 58.0
+  },
+  {
+    "doc_id": "X51006401977",
+    "invoice_number": null,
+    "date": "19/04/2017",
+    "amount": 778.0
+  },
+  {
+    "doc_id": "X51006414425",
+    "invoice_number": "OR18040502160302",
+    "date": "05 APR 2018",
+    "amount": 6.9
+  },
+  {
+    "doc_id": "X51006414427",
+    "invoice_number": "OR18040402170361",
+    "date": "04 APR 2018",
+    "amount": 7.6
+  },
+  {
+    "doc_id": "X51006414433",
+    "invoice_number": "OR18040602170349",
+    "date": "06 APR 2018",
+    "amount": 7.6
+  },
+  {
+    "doc_id": "X51006414512",
+    "invoice_number": "WILL",
+    "date": "03-04-2018",
+    "amount": 465.0
+  },
+  {
+    "doc_id": "X51006414532",
+    "invoice_number": "246274",
+    "date": "6/4/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006414592",
+    "invoice_number": "OR18041302160363",
+    "date": "13 APR 2018",
+    "amount": 7.6
+  },
+  {
+    "doc_id": "X51006414593",
+    "invoice_number": "OR18041402160201",
+    "date": "14 APR 2018",
+    "amount": 8.9
+  },
+  {
+    "doc_id": "X51006414600",
+    "invoice_number": "2018041410130120300",
+    "date": "14/04/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51006414632",
+    "invoice_number": "OR18041702170490",
+    "date": "17 APR 2018",
+    "amount": 10.6
+  },
+  {
+    "doc_id": "X51006414702",
+    "invoice_number": null,
+    "date": "23-04-2018",
+    "amount": 666.0
+  },
+  {
+    "doc_id": "X51006414708",
+    "invoice_number": null,
+    "date": "29/04/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006414715",
+    "invoice_number": "P1176502",
+    "date": "4/22/2018",
+    "amount": 42.0
+  },
+  {
+    "doc_id": "X51006414717",
+    "invoice_number": "2018041210090010473",
+    "date": "12/04/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51006414728",
+    "invoice_number": "C4004290047",
+    "date": null,
+    "amount": 29.0
+  },
+  {
+    "doc_id": "X51006438346",
+    "invoice_number": "01000683964",
+    "date": "05/04/18",
+    "amount": 699.0
+  },
+  {
+    "doc_id": "X51006466070",
+    "invoice_number": "OF",
+    "date": "26-04-2018",
+    "amount": 52.0
+  },
+  {
+    "doc_id": "X51006502534",
+    "invoice_number": null,
+    "date": "10/04/2018",
+    "amount": 83.0
+  },
+  {
+    "doc_id": "X51006502535",
+    "invoice_number": null,
+    "date": "16/04/2018",
+    "amount": 83.0
+  },
+  {
+    "doc_id": "X51006502540",
+    "invoice_number": null,
+    "date": "27/04/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006554841",
+    "invoice_number": "NO",
+    "date": "27-10-2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006555819",
+    "invoice_number": "/",
+    "date": "23/07/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006555833",
+    "invoice_number": "/",
+    "date": "31/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006555835",
+    "invoice_number": "/",
+    "date": "29/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556603",
+    "invoice_number": "/",
+    "date": "27/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556610",
+    "invoice_number": null,
+    "date": "22/08/2017",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51006556648",
+    "invoice_number": "/",
+    "date": "20/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556654",
+    "invoice_number": "/",
+    "date": "18/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556657",
+    "invoice_number": "/",
+    "date": "16/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556658",
+    "invoice_number": "/",
+    "date": "15/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556723",
+    "invoice_number": "/",
+    "date": "03/08/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006556728",
+    "invoice_number": "/",
+    "date": "07/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556734",
+    "invoice_number": "/",
+    "date": "04/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556740",
+    "invoice_number": "/",
+    "date": "01/08/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556806",
+    "invoice_number": "/",
+    "date": "23/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556808",
+    "invoice_number": "/",
+    "date": "22/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556809",
+    "invoice_number": "/",
+    "date": "21/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556810",
+    "invoice_number": "/",
+    "date": "20/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556812",
+    "invoice_number": "/",
+    "date": "14/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556821",
+    "invoice_number": "/",
+    "date": "02/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556826",
+    "invoice_number": "/",
+    "date": "27/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556827",
+    "invoice_number": "/",
+    "date": "26/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556829",
+    "invoice_number": "/",
+    "date": "24/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556851",
+    "invoice_number": "/",
+    "date": "12/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006556865",
+    "invoice_number": "/",
+    "date": "06/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557115",
+    "invoice_number": "/",
+    "date": "02/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557169",
+    "invoice_number": "/",
+    "date": "01/09/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557173",
+    "invoice_number": "/",
+    "date": "28/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557187",
+    "invoice_number": "/",
+    "date": "16/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557194",
+    "invoice_number": "/",
+    "date": "13/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557196",
+    "invoice_number": "/",
+    "date": "11/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557208",
+    "invoice_number": "/",
+    "date": "07/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557209",
+    "invoice_number": "/",
+    "date": "06/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006557507",
+    "invoice_number": "/",
+    "date": "27/10/2017",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51006619328",
+    "invoice_number": "NO",
+    "date": "31 JAN 2016",
+    "amount": 401.0
+  },
+  {
+    "doc_id": "X51006619338",
+    "invoice_number": "17563/102/T0224",
+    "date": "31-01-16",
+    "amount": 262.2
+  },
+  {
+    "doc_id": "X51006619345",
+    "invoice_number": null,
+    "date": "06-02-2016",
+    "amount": 34.0
+  },
+  {
+    "doc_id": "X51006619346",
+    "invoice_number": "-",
+    "date": "18-04-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619503",
+    "invoice_number": null,
+    "date": "21/12/16",
+    "amount": 44.0
+  },
+  {
+    "doc_id": "X51006619506",
+    "invoice_number": null,
+    "date": "24/12/16",
+    "amount": 28.0
+  },
+  {
+    "doc_id": "X51006619507",
+    "invoice_number": null,
+    "date": "03/12/2016",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619509",
+    "invoice_number": null,
+    "date": "02-12-2016",
+    "amount": 33.0
+  },
+  {
+    "doc_id": "X51006619564",
+    "invoice_number": "17873/102/T0253",
+    "date": "06-12-16",
+    "amount": 967.0
+  },
+  {
+    "doc_id": "X51006619567",
+    "invoice_number": null,
+    "date": "02/02/16",
+    "amount": 676.0
+  },
+  {
+    "doc_id": "X51006619569",
+    "invoice_number": "-",
+    "date": "01-02-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619570",
+    "invoice_number": "-",
+    "date": "21-02-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619700",
+    "invoice_number": "-",
+    "date": "10-01-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619703",
+    "invoice_number": "-",
+    "date": "11-01-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619704",
+    "invoice_number": "-",
+    "date": "11-01-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619757",
+    "invoice_number": "17545/102/T0040",
+    "date": "13-01-16",
+    "amount": 739.0
+  },
+  {
+    "doc_id": "X51006619760",
+    "invoice_number": null,
+    "date": "02/01/16",
+    "amount": 47.0
+  },
+  {
+    "doc_id": "X51006619764",
+    "invoice_number": "-",
+    "date": "05-01-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619766",
+    "invoice_number": "-",
+    "date": "10-01-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619779",
+    "invoice_number": "001-9823",
+    "date": null,
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51006619782",
+    "invoice_number": "17764/102/T0077",
+    "date": "19-08-16",
+    "amount": 400.0
+  },
+  {
+    "doc_id": "X51006619784",
+    "invoice_number": null,
+    "date": "7/6/2016",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006619790",
+    "invoice_number": "NO",
+    "date": "19 JUL 2016",
+    "amount": 401.0
+  },
+  {
+    "doc_id": "X51006619842",
+    "invoice_number": "NO",
+    "date": "3 JUN 2016",
+    "amount": 401.0
+  },
+  {
+    "doc_id": "X51006619863",
+    "invoice_number": "17692/102/T0515",
+    "date": "08-06-16",
+    "amount": 102.0
+  },
+  {
+    "doc_id": "X51006619869",
+    "invoice_number": null,
+    "date": "12/06/2016",
+    "amount": 101.0
+  },
+  {
+    "doc_id": "X51006620175",
+    "invoice_number": "-",
+    "date": "06-05-16",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006620182",
+    "invoice_number": null,
+    "date": "08/05/2016",
+    "amount": 502.0
+  },
+  {
+    "doc_id": "X51006620192",
+    "invoice_number": null,
+    "date": "01/05/2016",
+    "amount": 101.0
+  },
+  {
+    "doc_id": "X51006620437",
+    "invoice_number": "17796/103/T0356",
+    "date": "20-09-16",
+    "amount": 559.0
+  },
+  {
+    "doc_id": "X51006647933",
+    "invoice_number": null,
+    "date": "28/05/2018",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51006647984",
+    "invoice_number": null,
+    "date": "15/05/18",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51006714066",
+    "invoice_number": null,
+    "date": "30-09-2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51006733495",
+    "invoice_number": "17825/103/T0146",
+    "date": "19-10-16",
+    "amount": 559.0
+  },
+  {
+    "doc_id": "X51006828199",
+    "invoice_number": null,
+    "date": "12/10/2017",
+    "amount": 42.0
+  },
+  {
+    "doc_id": "X51006828200",
+    "invoice_number": null,
+    "date": "15/12/2017",
+    "amount": 22.0
+  },
+  {
+    "doc_id": "X51006828201",
+    "invoice_number": null,
+    "date": "15/12/2017",
+    "amount": 600.0
+  },
+  {
+    "doc_id": "X51006856982",
+    "invoice_number": null,
+    "date": "16/08/17",
+    "amount": 110.0
+  },
+  {
+    "doc_id": "X51006857126",
+    "invoice_number": null,
+    "date": "28/07/17",
+    "amount": 60.0
+  },
+  {
+    "doc_id": "X51006857132",
+    "invoice_number": "2017070951370013311",
+    "date": "09/07/2017",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51006857137",
+    "invoice_number": "18124/103/T0056",
+    "date": "14-08-17",
+    "amount": 103.0
+  },
+  {
+    "doc_id": "X51006857540",
+    "invoice_number": "0019894",
+    "date": "13-11-2017",
+    "amount": 744.0
+  },
+  {
+    "doc_id": "X51006912959",
+    "invoice_number": "STU001/59572",
+    "date": "09/05/2018",
+    "amount": 50.0
+  },
+  {
+    "doc_id": "X51006912976",
+    "invoice_number": null,
+    "date": "19/05/2018",
+    "amount": 441.0
+  },
+  {
+    "doc_id": "X51006912998",
+    "invoice_number": "WILL",
+    "date": "08-05-2018",
+    "amount": 465.0
+  },
+  {
+    "doc_id": "X51006913018",
+    "invoice_number": "2018051110133130178",
+    "date": "11/05/2018",
+    "amount": 470.0
+  },
+  {
+    "doc_id": "X51006913032",
+    "invoice_number": "OR18051002160303",
+    "date": "10 MAY 2018",
+    "amount": 12.2
+  },
+  {
+    "doc_id": "X51006913060",
+    "invoice_number": "OR18052102170378",
+    "date": "21 MAY 2018",
+    "amount": 8.2
+  },
+  {
+    "doc_id": "X51006913061",
+    "invoice_number": "OR18052302160264",
+    "date": "23 MAY 2018",
+    "amount": 9.2
+  },
+  {
+    "doc_id": "X51006913067",
+    "invoice_number": "OR18052802160335",
+    "date": "28 MAY 2018",
+    "amount": 7.1
+  },
+  {
+    "doc_id": "X51007103597",
+    "invoice_number": null,
+    "date": null,
+    "amount": 2.0
+  },
+  {
+    "doc_id": "X51007103610",
+    "invoice_number": "-",
+    "date": "14-04-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007103649",
+    "invoice_number": "-",
+    "date": "21-04-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007103668",
+    "invoice_number": "-",
+    "date": "22-04-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007103687",
+    "invoice_number": "-",
+    "date": "27-04-18",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007225406",
+    "invoice_number": null,
+    "date": null,
+    "amount": 49.0
+  },
+  {
+    "doc_id": "X51007231274",
+    "invoice_number": "OR18050602160288",
+    "date": "06 MAY 2018",
+    "amount": 7.3
+  },
+  {
+    "doc_id": "X51007231275",
+    "invoice_number": "OR18051202170431",
+    "date": "12 MAY 2018",
+    "amount": 6.6
+  },
+  {
+    "doc_id": "X51007231276",
+    "invoice_number": "OR18050202160376",
+    "date": "02 MAY 2018",
+    "amount": 8.2
+  },
+  {
+    "doc_id": "X51007231331",
+    "invoice_number": "OR18051102160270",
+    "date": "11 MAY 2018",
+    "amount": 7.8
+  },
+  {
+    "doc_id": "X51007231341",
+    "invoice_number": "OR18050302170448",
+    "date": "03 MAY 2018",
+    "amount": 8.2
+  },
+  {
+    "doc_id": "X51007231343",
+    "invoice_number": "OR18050402170507",
+    "date": "04 MAY 2018",
+    "amount": 6.6
+  },
+  {
+    "doc_id": "X51007231346",
+    "invoice_number": null,
+    "date": "02/05/18",
+    "amount": 292.0
+  },
+  {
+    "doc_id": "X51007231364",
+    "invoice_number": null,
+    "date": "26/05/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007231372",
+    "invoice_number": null,
+    "date": null,
+    "amount": 3.0
+  },
+  {
+    "doc_id": "X51007339105",
+    "invoice_number": null,
+    "date": "05/04/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339109",
+    "invoice_number": null,
+    "date": "27/03/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339116",
+    "invoice_number": null,
+    "date": "28/10/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339119",
+    "invoice_number": null,
+    "date": "17/11/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339121",
+    "invoice_number": null,
+    "date": "12/09/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339122",
+    "invoice_number": null,
+    "date": "14/10/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339125",
+    "invoice_number": null,
+    "date": "24/09/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339127",
+    "invoice_number": null,
+    "date": "24/10/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339134",
+    "invoice_number": null,
+    "date": "06/10/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339159",
+    "invoice_number": null,
+    "date": "16/12/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339160",
+    "invoice_number": null,
+    "date": "21/12/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339161",
+    "invoice_number": null,
+    "date": "29/11/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339163",
+    "invoice_number": null,
+    "date": "23/11/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007339638",
+    "invoice_number": "CSP0407141",
+    "date": "22/09/2017",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51007391390",
+    "invoice_number": null,
+    "date": "31/05/2018",
+    "amount": 603.0
+  },
+  {
+    "doc_id": "X51007433809",
+    "invoice_number": "INV-37002",
+    "date": "08-03-2018",
+    "amount": 190.0
+  },
+  {
+    "doc_id": "X51007579714",
+    "invoice_number": null,
+    "date": "03/06/2018",
+    "amount": 62.0
+  },
+  {
+    "doc_id": "X51007579719",
+    "invoice_number": null,
+    "date": "05-06-2018",
+    "amount": 41.0
+  },
+  {
+    "doc_id": "X51007579725",
+    "invoice_number": null,
+    "date": "27/06/18",
+    "amount": 100.0
+  },
+  {
+    "doc_id": "X51007846266",
+    "invoice_number": "OR18060102160261",
+    "date": "01 JUN 2018",
+    "amount": 8.76
+  },
+  {
+    "doc_id": "X51007846268",
+    "invoice_number": "OR18060202170385",
+    "date": "02 JUN 2018",
+    "amount": 10.36
+  },
+  {
+    "doc_id": "X51007846282",
+    "invoice_number": "NO",
+    "date": "18/06/02",
+    "amount": 387.0
+  },
+  {
+    "doc_id": "X51007846283",
+    "invoice_number": "2018060310100050084",
+    "date": "03/06/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51007846288",
+    "invoice_number": null,
+    "date": "06 JUN 2018",
+    "amount": 7.25
+  },
+  {
+    "doc_id": "X51007846289",
+    "invoice_number": "NO",
+    "date": "18/06/07",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51007846290",
+    "invoice_number": "OR18060702170298",
+    "date": "07 JUN 2018",
+    "amount": 8.19
+  },
+  {
+    "doc_id": "X51007846303",
+    "invoice_number": "OR18060802160287",
+    "date": "08 JUN 2018",
+    "amount": 6.69
+  },
+  {
+    "doc_id": "X51007846304",
+    "invoice_number": "OR18060502160307",
+    "date": "05 JUN 2018",
+    "amount": 7.52
+  },
+  {
+    "doc_id": "X51007846310",
+    "invoice_number": "NO",
+    "date": "18/06/11",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51007846321",
+    "invoice_number": "001853",
+    "date": "05/06/2018",
+    "amount": 200.0
+  },
+  {
+    "doc_id": "X51007846355",
+    "invoice_number": "2018061710130220258",
+    "date": "17/06/2018",
+    "amount": 300.0
+  },
+  {
+    "doc_id": "X51007846358",
+    "invoice_number": null,
+    "date": "03 JUN 18",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51007846360",
+    "invoice_number": null,
+    "date": "09/06/18",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51007846361",
+    "invoice_number": null,
+    "date": "11-06-2018",
+    "amount": 118.0
+  },
+  {
+    "doc_id": "X51007846371",
+    "invoice_number": "OR18061302170319",
+    "date": "13 JUN 2018",
+    "amount": 8.85
+  },
+  {
+    "doc_id": "X51007846372",
+    "invoice_number": "OR18061402170457",
+    "date": "14 JUN 2018",
+    "amount": 10.17
+  },
+  {
+    "doc_id": "X51007846379",
+    "invoice_number": "2018060310100050214",
+    "date": "03/06/2018",
+    "amount": 2.0
+  },
+  {
+    "doc_id": "X51007846387",
+    "invoice_number": null,
+    "date": "21/6/2018",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51007846392",
+    "invoice_number": "OR18061902170482",
+    "date": "19 JUN 2018",
+    "amount": 8.46
+  },
+  {
+    "doc_id": "X51007846396",
+    "invoice_number": null,
+    "date": "24/06/2018",
+    "amount": 0.0
+  },
+  {
+    "doc_id": "X51007846397",
+    "invoice_number": "OR18062102160440",
+    "date": "21 JUN 2018",
+    "amount": 7.72
+  },
+  {
+    "doc_id": "X51007846400",
+    "invoice_number": null,
+    "date": "19/06/2018",
+    "amount": 380.0
+  },
+  {
+    "doc_id": "X51007846403",
+    "invoice_number": "KSL001/26988",
+    "date": "02/06/2018",
+    "amount": 58.0
+  },
+  {
+    "doc_id": "X51008030561",
+    "invoice_number": null,
+    "date": "09-04-2018",
+    "amount": 5.0
+  },
+  {
+    "doc_id": "X51008030563",
+    "invoice_number": null,
+    "date": "02-04-2018",
+    "amount": 4.0
+  },
+  {
+    "doc_id": "X51008042779",
+    "invoice_number": null,
+    "date": "05-05-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51008042780",
+    "invoice_number": null,
+    "date": "10-05-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51008042781",
+    "invoice_number": null,
+    "date": "11-05-2018",
+    "amount": 2.0
+  },
+  {
+    "doc_id": "X51008042786",
+    "invoice_number": null,
+    "date": "30/05/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51008042787",
+    "invoice_number": null,
+    "date": "01/05/2018",
+    "amount": 412.92
+  },
+  {
+    "doc_id": "X51008099047",
+    "invoice_number": null,
+    "date": "21-06-2018",
+    "amount": 4.0
+  },
+  {
+    "doc_id": "X51008099086",
+    "invoice_number": null,
+    "date": "29-06-2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51008099088",
+    "invoice_number": null,
+    "date": "27-06-2018",
+    "amount": 2.0
+  },
+  {
+    "doc_id": "X51008099090",
+    "invoice_number": null,
+    "date": "01-06-2018",
+    "amount": 4.0
+  },
+  {
+    "doc_id": "X51008099100",
+    "invoice_number": null,
+    "date": "29 JUN 18",
+    "amount": 56.9
+  },
+  {
+    "doc_id": "X51009008091",
+    "invoice_number": null,
+    "date": "05/03/18",
+    "amount": 31.0
+  },
+  {
+    "doc_id": "X51009008095",
+    "invoice_number": null,
+    "date": "19/03/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51009447842",
+    "invoice_number": null,
+    "date": "14/03/2018",
+    "amount": 1.0
+  },
+  {
+    "doc_id": "X51009453729",
+    "invoice_number": null,
+    "date": "27/03/2018",
+    "amount": 6.0
+  },
+  {
+    "doc_id": "X51009568881",
+    "invoice_number": null,
+    "date": "21/09/2017",
+    "amount": 603.0
+  }
+]
